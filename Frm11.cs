@@ -42,7 +42,7 @@ namespace ListaExercicio01_IF
             }
             txtResultado.Text = ("R$ " + precofinal);
 
-            //Não entendi a 12 :P
+            
         }
     }
 }
